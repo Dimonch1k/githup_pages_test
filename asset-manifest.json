@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Dmytro-Kozachenko/githup_pages_test/static/css/main.f855e6bc.css",
-    "main.js": "/Dmytro-Kozachenko/githup_pages_test/static/js/main.90f40a53.js",
-    "static/js/453.beeb672f.chunk.js": "/Dmytro-Kozachenko/githup_pages_test/static/js/453.beeb672f.chunk.js",
-    "static/media/logo.svg": "/Dmytro-Kozachenko/githup_pages_test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Dmytro-Kozachenko/githup_pages_test/index.html",
-    "main.f855e6bc.css.map": "/Dmytro-Kozachenko/githup_pages_test/static/css/main.f855e6bc.css.map",
-    "main.90f40a53.js.map": "/Dmytro-Kozachenko/githup_pages_test/static/js/main.90f40a53.js.map",
-    "453.beeb672f.chunk.js.map": "/Dmytro-Kozachenko/githup_pages_test/static/js/453.beeb672f.chunk.js.map"
+    "main.css": "/leskivdo/static/css/main.f855e6bc.css",
+    "main.js": "/leskivdo/static/js/main.27a0dc83.js",
+    "static/js/453.beeb672f.chunk.js": "/leskivdo/static/js/453.beeb672f.chunk.js",
+    "static/media/logo.svg": "/leskivdo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/leskivdo/index.html",
+    "main.f855e6bc.css.map": "/leskivdo/static/css/main.f855e6bc.css.map",
+    "main.27a0dc83.js.map": "/leskivdo/static/js/main.27a0dc83.js.map",
+    "453.beeb672f.chunk.js.map": "/leskivdo/static/js/453.beeb672f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.90f40a53.js"
+    "static/js/main.27a0dc83.js"
   ]
 }
