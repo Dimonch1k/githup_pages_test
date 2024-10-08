@@ -8,17 +8,19 @@ import "../../styles/components/leskivdo/LeskivDO.scss";
 
 const LeskivDO = () => {
   return (
-    <div className="container">
-      <div className="leskivdo">
-        <Services />
-        <Doctors />
-        <AboutUs />
-        <ContactUs />
-        <Location />
+    <>
+      <div className="container">
+        <div className="leskivdo">
+          <Services />
+          <Doctors />
+          <AboutUs />
+          <ContactUs />
+          <Location />
 
-        <h1>LeskivDO</h1>
+          <h1>LeskivDO</h1>
+        </div>
       </div>
-    </div>
+    </>
   );
 };
 
