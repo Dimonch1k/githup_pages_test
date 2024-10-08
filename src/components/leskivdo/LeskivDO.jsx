@@ -10,12 +10,11 @@ const LeskivDO = () => {
   return (
     <div className="container">
       <div className="leskivdo">
-        {/* <Services />
+        <Services />
         <Doctors />
         <AboutUs />
         <ContactUs />
-        <Location /> */}
-        Hello
+        <Location />
       </div>
     </div>
   );
