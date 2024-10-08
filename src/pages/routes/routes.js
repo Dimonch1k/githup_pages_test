@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom"; // Use HashRouter
 
 import App from "../../App";
 import LeskivDO from "../../components/leskivdo/LeskivDO";
@@ -13,7 +13,7 @@ const ErrorPage = () => {
   return <div>Page Not Found 404</div>;
 };
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App />,
