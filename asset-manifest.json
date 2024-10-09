@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/githup_pages_test/static/css/main.84d4897f.css",
-    "main.js": "/githup_pages_test/static/js/main.953639b9.js",
+    "main.css": "/githup_pages_test/static/css/main.a8e03187.css",
+    "main.js": "/githup_pages_test/static/js/main.d2310f55.js",
     "index.html": "/githup_pages_test/index.html",
-    "main.84d4897f.css.map": "/githup_pages_test/static/css/main.84d4897f.css.map",
-    "main.953639b9.js.map": "/githup_pages_test/static/js/main.953639b9.js.map"
+    "main.a8e03187.css.map": "/githup_pages_test/static/css/main.a8e03187.css.map",
+    "main.d2310f55.js.map": "/githup_pages_test/static/js/main.d2310f55.js.map"
   },
   "entrypoints": [
-    "static/css/main.84d4897f.css",
-    "static/js/main.953639b9.js"
+    "static/css/main.a8e03187.css",
+    "static/js/main.d2310f55.js"
   ]
 }
